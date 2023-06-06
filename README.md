@@ -1,4 +1,4 @@
-# BHCPF-design-system
+# ELECZRA-design-system
 
 Documentation url: [ui.eleczra.com](https://ui.eleczra.com)
 
